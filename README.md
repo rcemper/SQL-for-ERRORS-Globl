@@ -1,8 +1,3 @@
- ~~~
- This is a coding example working on IRIS 2020.1 and on Caché 2018.1.3 
- It will not be kept in sync with new versions      
- It is also NOT serviced by InterSystems Support !   
-~~~ 
 
 Standard error logs in IRIS / Caché / Ensemble are written global ^ERRORS.  
 As this piece dates back some decades back to previous millennium its structure  
@@ -108,7 +103,14 @@ Row count: 541 Performance: 0.026 seconds  6557 global references
 2020-07-26,1,"*STACK",13,"T")	ERROR TRAP
 
 541 row(s) affected
-
 ~~~
 
-[Article in DC](https://community.intersystems.com/post/sql-error-global)
+[Article in DC](https://community.intersystems.com/post/sql-error-global)   
+
+[Demo Server SMP](https://sql-for-error-global.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
+[Demo Server WebTerminal](https://sql-for-error-global.demo.community.intersystems.com/terminal/)    
+        
+**Code Quality**   
+<img width="85%" src="
+https://openexchange.intersystems.com/mp/img/packages/671/screenshots/4bh7tyapellnv0cjgw34riapcfo.jpg
+">

@@ -111,6 +111,4 @@ Row count: 541 Performance: 0.026 seconds  6557 global references
 [Demo Server WebTerminal](https://sql-for-error-global.demo.community.intersystems.com/terminal/)    
         
 **Code Quality**   
-<img width="85%" src="
-https://openexchange.intersystems.com/mp/img/packages/671/screenshots/4bh7tyapellnv0cjgw34riapcfo.jpg
-">
+<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1769/screenshots/srotfj6xgclllwmwl9yu9a6ou.jpg">

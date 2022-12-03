@@ -106,9 +106,3 @@ Row count: 541 Performance: 0.026 seconds  6557 global references
 ~~~
 
 [Article in DC](https://community.intersystems.com/post/sql-error-global)   
-
-[Demo Server SMP](https://sql-for-error-global.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
-[Demo Server WebTerminal](https://sql-for-error-global.demo.community.intersystems.com/terminal/)    
-        
-**Code Quality**   
-<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1769/screenshots/srotfj6xgclllwmwl9yu9a6ou.jpg">

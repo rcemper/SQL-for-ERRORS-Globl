@@ -1,7 +1,7 @@
 ARG IMAGE=intersystemsdc/iris-community:latest
 FROM $IMAGE
 
-WORKDIR /opt/irisbuild
+WORKDIR /opt/irisapp
 RUN chown ${ISC_PACKAGE_MGRUSER}:${ISC_PACKAGE_IRISGROUP} /opt/irisbuild
 
 USER ${ISC_PACKAGE_MGRUSER}

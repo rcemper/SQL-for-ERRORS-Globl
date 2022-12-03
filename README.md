@@ -106,8 +106,8 @@ Row count: 541 Performance: 0.026 seconds  6557 global references
 ~~~
 
 ### Hint
-in a fresh container ^ERRORS is typicall empty or on exissing
-this simple one-liner may generate some entries
+In a fresh container ^ERRORS is typically empty or non existing
+This simple one-liner may generate some entries to whatch
 ```
 USER>for i=1:1:10 s ^rcc(i)=i   do LOG^%ETN h 1 zw
 ```

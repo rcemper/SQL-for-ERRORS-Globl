@@ -105,4 +105,11 @@ Row count: 541 Performance: 0.026 seconds  6557 global references
 541 row(s) affected
 ~~~
 
+### Hint
+in a fresh container ^ERRORS is typicall empty or on exissing
+this simple one-liner may generate some entries
+```
+USER>for i=1:1:10 s ^rcc(i)=i   do LOG^%ETN h 1 zw
+```
+
 [Article in DC](https://community.intersystems.com/post/sql-error-global)   

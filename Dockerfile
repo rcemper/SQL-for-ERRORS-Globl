@@ -7,7 +7,7 @@ USER ${ISC_PACKAGE_MGRUSER}
 
 COPY src src
 COPY iris.script iris.script
-
+COPY module.xml module.xml
 RUN iris start IRIS \
 	&& iris session IRIS < iris.script \
     && iris stop IRIS quietly 

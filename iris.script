@@ -4,5 +4,5 @@ Do $System.OBJ.LoadDir("/opt/irisapp/src","cuk")
 zpm "install iterm"
 zn "USER"
 ; zpm "install webterminal"
-Do $System.OBJ.LoadDir("/opt/irisapp/src","cuk")
+Do $System.OBJ.LoadDir("/opt/irisapp/sr/zrcc","cuk")
 halt
